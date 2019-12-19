@@ -1,0 +1,51 @@
+{
+    "name": "National Security Agency (NSA)",
+    "description": "<p>The National Security Agency (NSA) is an intelligence organization of the United States government, responsible for global monitoring, collection, and processing of information and data for foreign intelligence and counterintelligence purposes &ndash; a discipline known as signals intelligence (SIGINT). NSA is concurrently charged with protection of U.S. government communications and information systems against penetration and network warfare.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/nsa-logo.jpg",
+    "tags": [
+        "api provider",
+        "cybersecurity",
+        "data provider",
+        "have api",
+        "surveillance"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/national-security-agency-nsa\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "National Security Agency (NSA)",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/nsa-logo.jpg",
+            "humanURL": "https:\/\/www.nsa.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/national-security-agency-nsa-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/national-security-agency-nsa-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/NationalSecurityAgency"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/NSAGov"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.nsa.gov\/"
+        }
+    ]
+}
